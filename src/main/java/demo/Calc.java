@@ -6,7 +6,7 @@ public class Calc {
 	}
 	public int divide(String s,String s1){
 		int i = Integer.parseInt(s);
-		int j = Integer.parseInt(s1);
+		int j = Integer.parseInt(s);
 		return i / j;
 	}
 }
