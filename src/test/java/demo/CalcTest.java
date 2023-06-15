@@ -38,7 +38,6 @@ public class CalcTest {
 		}catch (NumberFormatException e) {
 			assertTrue(true);
 		}
-		
 	}
 	@Test
 	public void testDivide2() {
